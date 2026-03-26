@@ -24,3 +24,6 @@ The system is set up within a company’s private cloud. Engineers can query 10T
 
 ## What next?
 Shifting from "Reactive" to "Proactive": We’re developing a module where 10T GPT can automatically flag anomalies before an engineer even asks, effectively stepping into the role of an autonomous industrial supervisor.
+
+## Acknowledgments
+* Inspired by the Building AI course
